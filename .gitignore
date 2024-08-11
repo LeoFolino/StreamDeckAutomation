@@ -1,5 +1,4 @@
 /venv_project
-.enc
-.key
 CRDT.txt
 *.txt.enc
+*.key

@@ -5,13 +5,21 @@ En el documento se explica la instalación y uso.
 Se debe descargar el .zip que tiene la siguiente distribución de carpetas
 
 StreamDeckAutomation/
+
 ├── CRDTmuestra.txt
+
 ├── decrypt_and_login.exe
+
 ├── decrypt_and_login.py
+
 ├── encrypt_credentials.exe
+
 ├── encrypt_credentials.py
+
 ├── login_facebook.bat
+
 ├── login_google.bat
+
 └── login_twitter.bat
 
 - Se debe crear un archivo `CRDT.txt` con el formato expuesto en `CRDTmuestra.txt`, ahi es donde se van a escribir los servicios y el respectivo usuario y contraseña.

@@ -1,5 +1,3 @@
 Google: UsuarioGoogle, ContraseñaGoogle
 Facebook: UsuarioFacebook, ContraseñaFacebook
 Twitter: UsuarioTwitter, ContraseñaTwitter
-
-Este archivo es unicamente de ejemplo. El archivo con credenciales debe llamarse CRDT.txt
